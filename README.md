@@ -1,6 +1,6 @@
 # LanguageLocalization
 
-Language Localization,anlık dil değişimi yapabildiğiniz bir uygulamadır.
+Language Localization, anlık dil değişimi yapabildiğiniz bir uygulamadır.
 Ek olarak kullanıcının en son seçtiği dili saklayıp uygulama kapatılıp açıldığında en son seçilen dile göre uygulamayı açmayı hedeflemektedir.
 
 Bunları yapabilmek için bilmemiz gerek iki sınıfımız var. Birincisi _Locale_, diğeri ise _SharedPreferences_.
